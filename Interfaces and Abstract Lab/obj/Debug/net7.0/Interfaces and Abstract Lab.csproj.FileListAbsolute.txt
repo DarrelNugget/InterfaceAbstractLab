@@ -1,0 +1,15 @@
+C:\Users\Darrel Nguyen\Documents\Object Programming\Object-Programming2-DarrelN\Interfaces and Abstract Lab\bin\Debug\net7.0\Interfaces and Abstract Lab.exe
+C:\Users\Darrel Nguyen\Documents\Object Programming\Object-Programming2-DarrelN\Interfaces and Abstract Lab\bin\Debug\net7.0\Interfaces and Abstract Lab.deps.json
+C:\Users\Darrel Nguyen\Documents\Object Programming\Object-Programming2-DarrelN\Interfaces and Abstract Lab\bin\Debug\net7.0\Interfaces and Abstract Lab.runtimeconfig.json
+C:\Users\Darrel Nguyen\Documents\Object Programming\Object-Programming2-DarrelN\Interfaces and Abstract Lab\bin\Debug\net7.0\Interfaces and Abstract Lab.dll
+C:\Users\Darrel Nguyen\Documents\Object Programming\Object-Programming2-DarrelN\Interfaces and Abstract Lab\bin\Debug\net7.0\Interfaces and Abstract Lab.pdb
+C:\Users\Darrel Nguyen\Documents\Object Programming\Object-Programming2-DarrelN\Interfaces and Abstract Lab\obj\Debug\net7.0\Interfaces and Abstract Lab.csproj.AssemblyReference.cache
+C:\Users\Darrel Nguyen\Documents\Object Programming\Object-Programming2-DarrelN\Interfaces and Abstract Lab\obj\Debug\net7.0\Interfaces and Abstract Lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darrel Nguyen\Documents\Object Programming\Object-Programming2-DarrelN\Interfaces and Abstract Lab\obj\Debug\net7.0\Interfaces and Abstract Lab.AssemblyInfoInputs.cache
+C:\Users\Darrel Nguyen\Documents\Object Programming\Object-Programming2-DarrelN\Interfaces and Abstract Lab\obj\Debug\net7.0\Interfaces and Abstract Lab.AssemblyInfo.cs
+C:\Users\Darrel Nguyen\Documents\Object Programming\Object-Programming2-DarrelN\Interfaces and Abstract Lab\obj\Debug\net7.0\Interfaces and Abstract Lab.csproj.CoreCompileInputs.cache
+C:\Users\Darrel Nguyen\Documents\Object Programming\Object-Programming2-DarrelN\Interfaces and Abstract Lab\obj\Debug\net7.0\Interfaces and Abstract Lab.dll
+C:\Users\Darrel Nguyen\Documents\Object Programming\Object-Programming2-DarrelN\Interfaces and Abstract Lab\obj\Debug\net7.0\refint\Interfaces and Abstract Lab.dll
+C:\Users\Darrel Nguyen\Documents\Object Programming\Object-Programming2-DarrelN\Interfaces and Abstract Lab\obj\Debug\net7.0\Interfaces and Abstract Lab.pdb
+C:\Users\Darrel Nguyen\Documents\Object Programming\Object-Programming2-DarrelN\Interfaces and Abstract Lab\obj\Debug\net7.0\Interfaces and Abstract Lab.genruntimeconfig.cache
+C:\Users\Darrel Nguyen\Documents\Object Programming\Object-Programming2-DarrelN\Interfaces and Abstract Lab\obj\Debug\net7.0\ref\Interfaces and Abstract Lab.dll
